@@ -1,0 +1,38 @@
+* {
+  margin:0;
+  padding:0
+}
+
+body {
+  font-family: Open Sans;
+}
+
+
+
+.intro{
+  background: url('monks.jpg') no-repeat;
+  background-position: 50% 50%;
+  background-clip: cover;
+
+}
+
+.intro h1{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 7em;
+  color: #ff3;
+  margin:0;
+}
+
+.content {
+  height: 2000px;
+  padding-top: 100px;
+  background-color: #aaa;
+
+}
+
+.content h2, .content p {
+  width: 60%;
+  margin: 0 auto;
+
+}
